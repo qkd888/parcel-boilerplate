@@ -1,0 +1,21 @@
+.hero {
+  background: red;
+}
+.hero p {
+  color: white;
+}
+.slider {
+  background: #37ff00;
+}
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+
+/*# sourceMappingURL=/style.c51d859a.css.map */
